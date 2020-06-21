@@ -20,6 +20,7 @@ To set for your project
 ## Known issue (I won't fix. Please wait for official supporting.)
 - No supported XR Rendering
 - No supported Deferred Rendering
+- No supported ScalableAmbientObscurance Mode
 
 ## License
 Licensed under the Unity Companion License for Unity-dependent projects--see [Unity Companion License](http://www.unity3d.com/legal/licenses/Unity_Companion_License). 
